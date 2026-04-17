@@ -4,3 +4,4 @@ This repository contains my Java practice and mini projects focused on Core Java
 
 ## Projects
 1. Bank Management System (Java + JDBC + MySQL)
+2. Student Management System (Java, JDBC, MySQL, SQL, OOP)
