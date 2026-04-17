@@ -9,7 +9,7 @@ public class DBConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/bankdb?useSSL=false&allowPublicKeyRetrieval=true";
     private static final String USER = "root";
     
-        private static final String PASSWORD = "root"; 
+        private static final String PASSWORD = "YOUR_PASSWORD"; 
 
     // This method returns the connection to MySQL
     public static Connection getConnection() {
